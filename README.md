@@ -13,8 +13,8 @@ Welcome to the Flutter Expense Tracker app repository! This Flutter app helps yo
 
 ## Installation
 
-1. **Clone the Repository**: `git clone https://github.com/rajafawady/expense_tracker.git`
-2. **Navigate to the Project Directory**: `cd expense_tracker`
+1. **Clone the Repository**: `git clone https://github.com/rajafawady/flutter_expense_tracker.git`
+2. **Navigate to the Project Directory**: `cd flutter_expense_tracker`
 3. **Install Dependencies**: `flutter pub get`
 4. **Run the App**: `flutter run`
 
