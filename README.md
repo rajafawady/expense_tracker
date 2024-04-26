@@ -18,6 +18,11 @@ Welcome to the Flutter Expense Tracker app repository! This Flutter app helps yo
 3. **Install Dependencies**: `flutter pub get`
 4. **Run the App**: `flutter run`
 
+## Screenshots
+
+![Screenshot 1](screenshots/Screenshot_20240426_175151.jpg)
+![Screenshot 2](screenshots/Screenshot_20240426_175202.jpg)
+
 
 ## Contributing
 
